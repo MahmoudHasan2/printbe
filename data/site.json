@@ -1,0 +1,435 @@
+{
+    "settings": {
+        "site_name": "PrintBe",
+        "brand_name": "Print",
+        "brand_accent": "Be",
+        "phone": " 1 (800) 123-4567",
+        "email": "support@printbe.com",
+        "address": "2972 Westheimer Rd, Santa Ana, NY 85486",
+        "promo_text": "Get 50% Off On Selected Items — Limited Time Only",
+        "promo_link_text": "Shop Now",
+        "footer_about": "Your trusted partner for all printing needs. Quality, speed, and affordability — all in one place.",
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#",
+        "pinterest": "#"
+    },
+    "home": {
+        "hero_slides": [
+            {
+                "badge": "Trusted by 50,000+ Businesses",
+                "badge_icon": "fas fa-star",
+                "title_line1": "Printing",
+                "title_highlight": "Company",
+                "title_line2": "For Your Business",
+                "desc": "Turn your ideas into premium products that leave a lasting impression at first sight — fast turnaround, top-notch quality, prices that scale with you.",
+                "btn1_text": "Start Selling",
+                "btn1_link": "shop.php",
+                "btn2_text": "Our Services",
+                "btn2_link": "services.php",
+                "stat1_num": "15",
+                "stat1_suffix": "K+",
+                "stat1_label": "Orders Completed",
+                "stat2_num": "99",
+                "stat2_suffix": "%",
+                "stat2_label": "Happy Clients",
+                "stat3_num": "24",
+                "stat3_suffix": "h",
+                "stat3_label": "Fast Delivery",
+                "main_img": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=600&q=80",
+                "float_img1": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&q=80",
+                "float_img2": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&q=80",
+                "float_img3": "https://images.unsplash.com/photo-1606293459339-fed7f6d4c6c0?w=400&q=80"
+            },
+            {
+                "badge": "Bulk Orders, Bigger Savings",
+                "badge_icon": "fas fa-tags",
+                "title_line1": "Custom",
+                "title_highlight": "Merch",
+                "title_line2": "Made Simple",
+                "desc": "From a single business card to a truckload of packaging — pick a product, personalize it in minutes, and we handle the rest.",
+                "btn1_text": "See Bulk Pricing",
+                "btn1_link": "index.php#pricing",
+                "btn2_text": "Browse Shop",
+                "btn2_link": "shop.php",
+                "stat1_num": "100",
+                "stat1_suffix": "+",
+                "stat1_label": "Years Combined Exp.",
+                "stat2_num": "150",
+                "stat2_suffix": "+",
+                "stat2_label": "Countries Shipped",
+                "stat3_num": "30",
+                "stat3_suffix": "%",
+                "stat3_label": "Bulk Savings",
+                "main_img": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=600&q=80",
+                "float_img1": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&q=80",
+                "float_img2": "https://images.unsplash.com/photo-1614036417651-efe5912149d8?w=400&q=80",
+                "float_img3": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=400&q=80"
+            }
+        ],
+        "usp": [
+            {
+                "icon": "fas fa-globe",
+                "title": "Free delivery",
+                "desc": "Worldwide shipping"
+            },
+            {
+                "icon": "fas fa-rotate-left",
+                "title": "30 days returns",
+                "desc": "Online & in-store"
+            },
+            {
+                "icon": "fas fa-headset",
+                "title": "Top-notch support",
+                "desc": "Real humans, fast replies"
+            },
+            {
+                "icon": "fas fa-tag",
+                "title": "Low price guarantee",
+                "desc": "Best value, every order"
+            }
+        ],
+        "stats": [
+            {
+                "num": "100",
+                "suffix": "+",
+                "label": "Years Of Experience"
+            },
+            {
+                "num": "15",
+                "suffix": "K+",
+                "label": "Orders Completed"
+            },
+            {
+                "num": "50",
+                "suffix": "K+",
+                "label": "Happy Customers"
+            },
+            {
+                "num": "150",
+                "suffix": "+",
+                "label": "Countries Reached"
+            }
+        ],
+        "reasons": [
+            {
+                "icon": "fas fa-chart-line",
+                "title": "High Profit Margin",
+                "desc": "Effective optimization of cost and quality that keeps your reselling business highly profitable."
+            },
+            {
+                "icon": "fas fa-earth-americas",
+                "title": "Global Shipping",
+                "desc": "Reach international customers easily with our fast, flexible, and trackable shipping network."
+            },
+            {
+                "icon": "fas fa-fire",
+                "title": "Trending Products",
+                "desc": "Maximize your sale volume with a catalog of high-demand, market-tested products."
+            }
+        ],
+        "steps": [
+            {
+                "title": "Pick Products",
+                "desc": "Browse our catalog and choose the product, material, and finish that fits your brand."
+            },
+            {
+                "title": "Customize & Review",
+                "desc": "Upload your design or use our free templates, then approve a digital proof before printing."
+            },
+            {
+                "title": "We Ship For You",
+                "desc": "We print, pack, and ship — with tracking — straight to you or your customers' door."
+            }
+        ],
+        "bulk_cta": {
+            "label": "Bulk orders",
+            "title": "Ready To Buy In Bulk & Save Up To 30%?",
+            "desc": "We help you realize your projects with simplicity, efficiency, and peace of mind — because your time is worth more than paperwork.",
+            "btn_text": "Explore More",
+            "btn_link": "index.php#pricing",
+            "img1": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=500&q=80",
+            "img2": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&q=80",
+            "img3": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=300&q=80"
+        },
+        "pricing": [
+            {
+                "tag": "Basic",
+                "desc": "Ideal for those who have a small business.",
+                "price_m": "2500",
+                "price_y": "25000",
+                "features": "3–5 days turnaround\nDedicated dashboard\nUpdates via dashboard & Slack\n50k design & prints",
+                "featured": false
+            },
+            {
+                "tag": "Pro Plus",
+                "desc": "For large teams or corporations.",
+                "price_m": "3800",
+                "price_y": "38000",
+                "features": "3–5 days turnaround\nDedicated dashboard\nTasks delivered one-by-one\n50k design & prints",
+                "featured": true
+            },
+            {
+                "tag": "Custom",
+                "desc": "Best for large-scale businesses.",
+                "price_m": "4600",
+                "price_y": "46000",
+                "features": "3–5 days turnaround\nDedicated dashboard\nNative development\n50k design & prints",
+                "featured": false
+            }
+        ],
+        "newsletter": {
+            "title": "Sign Up For Exclusive Offers",
+            "desc": "Subscribe and get new product drops, discounts, and printing tips straight to your inbox."
+        }
+    },
+    "ribbons": {
+        "category_tags": "Roller Banners\nBrochures & Catalogs\nBusiness Cards\nStickers & Labels\nCalendars\nPrint Packaging",
+        "shop_tags": "Dress Shirts\nNew Products\nInfants & Toddlers\nTank Tops\nMen's Shirts\nWomen's Shirts\nBags & Accessories",
+        "testimonial_word1": "Testimonials",
+        "testimonial_word2": "Review"
+    },
+    "services_list": [
+        {
+            "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+            "title": "POD For Online Stores",
+            "desc": "Print-on-demand fulfillment plugged into your storefront."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80",
+            "title": "Digital Scanning",
+            "desc": "High-resolution scanning for archives, art, and documents."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1611162458324-aae1eb4129a4?w=500&q=80",
+            "title": "Stickers & Labels",
+            "desc": "Die-cut, kiss-cut, and roll labels in any finish."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1568205612837-017257d2310a?w=500&q=80",
+            "title": "Printing Service",
+            "desc": "Offset and digital print runs, small or large volume."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=500&q=80",
+            "title": "Custom Packaging",
+            "desc": "Boxes, mailers, and inserts that protect and brand your product."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?w=500&q=80",
+            "title": "Large Format",
+            "desc": "Banners, posters, and signage in stunning high resolution."
+        }
+    ],
+    "products": [
+        {
+            "image": "https://images.unsplash.com/photo-1621570074868-1ac5a2b40dd4?w=500&q=80",
+            "badge": "-20%",
+            "category": "Personalize",
+            "name": "Sticker",
+            "price": "$9.95 – $39.95"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=500&q=80",
+            "badge": "",
+            "category": "Personalize",
+            "name": "Badge",
+            "price": "$9.90 – $49.90"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500&q=80",
+            "badge": "New",
+            "category": "Personalize",
+            "name": "Phone Case",
+            "price": "$19.95 – $24.95"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1616423841102-6900b9d19333?w=500&q=80",
+            "badge": "",
+            "category": "Personalize",
+            "name": "Mouse Pad",
+            "price": "$14.90 – $99.90"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=500&q=80",
+            "badge": "",
+            "category": "Personalize",
+            "name": "Mug",
+            "price": "$14.95 – $119.95"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=500&q=80",
+            "badge": "",
+            "category": "Personalize",
+            "name": "Sweatshirt",
+            "price": "$19.95 – $159.95"
+        }
+    ],
+    "testimonials": [
+        {
+            "stars": 5,
+            "text": "PrintBe transformed our brand identity completely. The quality of their business cards and brochures is unmatched — highly recommended.",
+            "author_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+            "author_name": "Sarah Johnson",
+            "author_role": "CEO, TechStart Inc."
+        },
+        {
+            "stars": 5,
+            "text": "The custom apparel printing is phenomenal. Our team loves the hoodies, and the colors are still vibrant after dozens of washes.",
+            "author_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+            "author_name": "Michael Chen",
+            "author_role": "Founder, FitLife Gym"
+        },
+        {
+            "stars": 4,
+            "text": "Fast delivery, excellent customer service, and packaging quality that exceeded our expectations. PrintBe is our go-to printing partner.",
+            "author_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
+            "author_name": "Emily Roberts",
+            "author_role": "Marketing Director, Bloom Co."
+        },
+        {
+            "stars": 5,
+            "text": "Excellent printing service — very quick, professional and accurate. When the courier lost a shipment, PrintBe reprinted the whole order for free.",
+            "author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80",
+            "author_name": "Gustavo Dias",
+            "author_role": "Owner, Allegra Studio"
+        },
+        {
+            "stars": 5,
+            "text": "Reliable, on time, and priced fairly — PrintBe delivers quality products with the best printing service we've found in the market.",
+            "author_image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&q=80",
+            "author_name": "Amily Moalin",
+            "author_role": "Operations Lead, Nova Retail"
+        }
+    ],
+    "blog_posts": [
+        {
+            "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=500&q=80",
+            "author": "Admin",
+            "comments": "03",
+            "date": "Sep 12, 2026",
+            "title": "Make Yourself Happy With Our T-Shirt Designer",
+            "excerpt": "A quick walkthrough of building a print-ready shirt design from scratch, no design degree required.",
+            "body": "Custom apparel used to mean sending a flat design file to a print shop and hoping for the best. Our online T-shirt designer changes that — you see exactly what you're getting before a single sheet of transfer paper is used.\n\nWhether you're outfitting a team, launching a merch drop, or just want a one-off gift, the workflow below gets you from blank canvas to checkout in a few minutes."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=500&q=80",
+            "author": "Admin",
+            "comments": "03",
+            "date": "Sep 5, 2026",
+            "title": "Are You Ready To Make It Awesome With Us?",
+            "excerpt": "How small brands are using custom packaging to turn every order into a moment worth sharing.",
+            "body": "Unboxing has become part of the product itself. A few thoughtful touches — a branded mailer, a handwritten note, a sticker pack — turn a delivery into content your customers want to share."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&q=80",
+            "author": "Admin",
+            "comments": "03",
+            "date": "Aug 28, 2026",
+            "title": "Top 10 Print-On-Demand Partners To Kickstart Your Store",
+            "excerpt": "A practical comparison of the print-on-demand partners worth testing this year.",
+            "body": "Picking a print-on-demand partner is mostly about matching their strengths to your catalog. Here's how we'd narrow the list before committing to one for a new store."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?w=500&q=80",
+            "author": "Admin",
+            "comments": "07",
+            "date": "Aug 14, 2026",
+            "title": "5 Packaging Trends Worth Stealing In 2026",
+            "excerpt": "Minimal mono-material mailers, QR-linked unboxing, and three other trends showing up in our print queue.",
+            "body": "Packaging is doing double duty this year — protecting the product and carrying the brand story. These are the five trends our production floor has seen the most requests for."
+        }
+    ],
+    "team": [
+        {
+            "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+            "name": "Daniel Reyes",
+            "role": "Founder & CEO",
+            "linkedin": "#",
+            "twitter": "#"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+            "name": "Priya Nandan",
+            "role": "Head Of Production",
+            "linkedin": "#",
+            "twitter": "#"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=400&q=80",
+            "name": "Marco Bellandi",
+            "role": "Design Lead",
+            "linkedin": "#",
+            "twitter": "#"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&q=80",
+            "name": "Aisha Kone",
+            "role": "Customer Success",
+            "linkedin": "#",
+            "twitter": "#"
+        }
+    ],
+    "about_page": {
+        "badge": "About PrintBe",
+        "title": "Premier One-Stop Custom Print Solutions",
+        "desc1": "Since 1999, PrintBe has been the trusted partner for businesses of all sizes. From startups to Fortune 500 companies, we deliver printing excellence that makes brands unforgettable.",
+        "desc2": "What started as a single offset press in a two-person shop is now a full production floor covering apparel, packaging, signage, and print-on-demand — without losing the hands-on quality control that got us here.",
+        "story_img": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=700&q=80",
+        "badge_years": "25+",
+        "value1_title": "Eco-Friendly Materials",
+        "value1_desc": "Sustainable stock and inks available on every product line.",
+        "value2_title": "Free Design Templates",
+        "value2_desc": "Over 1,000 professional templates to start from.",
+        "value3_title": "Worldwide Shipping",
+        "value3_desc": "Delivering to more than 150 countries, tracked door to door.",
+        "stats": [
+            {
+                "num": "25",
+                "suffix": "+",
+                "label": "Years In Business"
+            },
+            {
+                "num": "50",
+                "suffix": "K+",
+                "label": "Happy Customers"
+            },
+            {
+                "num": "120",
+                "suffix": "+",
+                "label": "Team Members"
+            },
+            {
+                "num": "150",
+                "suffix": "+",
+                "label": "Countries Reached"
+            }
+        ]
+    },
+    "services_page": {
+        "badge": "Premier one-stop custom print solutions",
+        "title": "Every Print Service Under One Roof",
+        "desc": "From a single proof to a full production run, our team handles design, print, and delivery end-to-end."
+    },
+    "contact_page": {
+        "intro_desc": "Tell us about your project and we'll get back to you with pricing and timeline.",
+        "hours": [
+            {
+                "day": "Monday – Friday",
+                "time": "9:00am – 6:00pm"
+            },
+            {
+                "day": "Saturday",
+                "time": "10:00am – 4:00pm"
+            },
+            {
+                "day": "Sunday",
+                "time": "Closed"
+            }
+        ]
+    },
+    "shop_page": {
+        "badge": "Categories",
+        "filter_categories": "Business Cards|12\nCalendars|8\nStickers & Labels|15\nApparel|20\nDrinkware|9\nPackaging|6"
+    }
+}
